@@ -4,6 +4,7 @@ Release_gcc_unicode
 DebugUnicode
 *.session
 *.tags
+*.tags-*
 *.d
 *.o
 *.pyc
