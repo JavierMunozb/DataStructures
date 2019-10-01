@@ -1,5 +1,5 @@
 [{
-  "file": "C:\\Users\\javim\\Documents\\GitHub\\DataStructures\\LabTest\\main.cpp",
-  "directory": "C:\\Users\\javim\\Documents\\GitHub\\DataStructures\\LabTest",
-  "command": "clang  -c C:\\Users\\javim\\Documents\\GitHub\\DataStructures\\LabTest\\main.cpp -o C:\\Users\\javim\\Documents\\GitHub\\DataStructures\\LabTest\\main.cpp.o -target x86_64-pc-windows-gnu -I. -I.  -g  -O0  -Wall"
+  "file": "C:\\Users\\javim\\Documents\\GitHub\\DataStructures\\Exercise2\\main.cpp",
+  "directory": "C:\\Users\\javim\\Documents\\GitHub\\DataStructures\\Exercise2",
+  "command": "clang  -c C:\\Users\\javim\\Documents\\GitHub\\DataStructures\\Exercise2\\main.cpp -o C:\\Users\\javim\\Documents\\GitHub\\DataStructures\\Exercise2\\main.cpp.o -target x86_64-pc-windows-gnu -I. -I.  -g  -O0  -Wall"
  }]
