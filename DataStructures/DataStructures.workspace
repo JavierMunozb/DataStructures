@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <CodeLite_Workspace Name="DataStructures" Database="" Version="10.0.0">
-  <Project Name="Testing" Path="Testing/Testing.project" Active="Yes"/>
+  <Project Name="FuckIfIKnow" Path="FuckIfIKnow/FuckIfIKnow.project" Active="Yes"/>
   <BuildMatrix>
     <WorkspaceConfiguration Name="Debug" Selected="yes">
       <Environment/>
-      <Project Name="Testing" ConfigName="Debug"/>
+      <Project Name="FuckIfIKnow" ConfigName="Debug"/>
     </WorkspaceConfiguration>
     <WorkspaceConfiguration Name="Release" Selected="yes">
       <Environment/>
-      <Project Name="Testing" ConfigName="Release"/>
+      <Project Name="FuckIfIKnow" ConfigName="Release"/>
     </WorkspaceConfiguration>
   </BuildMatrix>
 </CodeLite_Workspace>
